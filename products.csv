@@ -1,0 +1,11 @@
+item_id, product_name, department_name, price, stock_quantity
+1000,MacBook,Technology,2000.00,15
+2345,iPhone,Technology,300.00,12
+5234,Hololens,Technology,500.0021
+8769,Basketball,Sports,28.79,54
+1230,Toothpaste,Health,11.99,42
+7937,Hoodie,Clothing,18.99,3
+2409,TennisBall,Sports,16.89,15
+5824,ToothBrush,Health,2.99,134
+4994,24-packWater,Food,1.99,84
+4708,GroundBeef,Food,3.79,16

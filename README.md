@@ -13,8 +13,9 @@ Bamazon is a command-line application built with mySQL, node, and inquirer. This
 - Javascript / ES6
 - Node.js
 - Node Package Manager (npm)
+	- mySQL
 	- Inquirer
-	-
+	- console.table
 
 ## Directory structure
 ```none            

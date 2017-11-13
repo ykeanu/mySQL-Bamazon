@@ -25,7 +25,7 @@ Bamazon is a command-line application built with mySQL, node, and inquirer. This
 ├── sql				 // For mySQL
 │   ├── products.csv
 │   └── schema.sql			
-├── bamazonCustomer.js			// Main app
+├── bamazonCustomer.js		// Main app
 ├── package.json 		
 ├── .gitignore			        
 └── README.md               

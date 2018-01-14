@@ -1,5 +1,5 @@
 # Bamazon: Command Line Edition
-Bamazon is a command-line application built with mySQL, node, and inquirer. This was built with the intention of creating a shopping-based command line app
+Bamazon is a command-line application built with mySQL, node, and inquirer. This was built with the intention of creating a shopping-based command line app.
 
 ## Instructions
 1. Navigate to `mySQL-Bamazon` repository through the command line.
